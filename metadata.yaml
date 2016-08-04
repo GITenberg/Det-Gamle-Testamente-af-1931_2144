@@ -1,0 +1,18 @@
+_repo: Det-Gamle-Testamente-af-1931_2144
+_version: 0.0.1
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2144'
+language: da
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Bible. Old Testament'
+- !lcc 'BS'
+- GITenberg
+title: Det Gamle Testamente af 1931
+url: http://www.gutenberg.org/ebooks/2144
